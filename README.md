@@ -32,3 +32,12 @@ A simple Python automation script using Selenium to log into [BuildingConnected]
 3. Run the script:
 
   python BuildingConnect.py   
+
+
+  **Sweetgreen.py**
+
+  another project to extract all locations of sweetgreen using request.
+  Run 
+  python Sweetgreen.py
+
+  
