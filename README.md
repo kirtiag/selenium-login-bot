@@ -18,7 +18,7 @@ A simple Python automation script using Selenium to log into [BuildingConnected]
 
 1. **Install dependencies**:
    
-   pip install selenium webdriver-manager(I used try catch to handle this)
+   pip install selenium webdriver-manager(I used try except to handle this)
    
    
 2. Create Crentials.py:
