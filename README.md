@@ -23,10 +23,10 @@ A simple Python automation script using Selenium to log into [BuildingConnected]
    
 2. Create Crentials.py:
 
-  Email = "your_email@example.com"
-  password = "your_password"
+     Email = "your_email@example.com"
+     password = "your_password"
 
-please change your Crentials in this script.
+      please change your Crentials in this script.
 
 
 3. Run the script:
